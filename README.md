@@ -5,7 +5,7 @@ A single-file browser-based tracker for potential credit-card, subscription, and
 ## Publish on GitHub Pages
 
 1. This public repository already exists at `APEX-SOLUTIONS-LIVE/Perk-tracker`.
-2. Upload **only** `index.html` from this release to the repository root. Optionally replace this README with the release README.
+2. The privacy-safe `index.html` and this README have already been uploaded to the `main` branch.
 3. Open repository **Settings → Pages**.
 4. Under **Build and deployment**, select **Deploy from a branch**, then choose `main`, `/(root)` and **Save**.
 5. GitHub will show the live URL in Pages settings after a successful deployment.
